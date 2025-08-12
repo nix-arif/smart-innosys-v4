@@ -3,13 +3,11 @@ import Contact from "@/components/Contact";
 import Feedback from "@/components/Feedback";
 import Hero from "@/components/Hero";
 import KnowledgeHub from "@/components/KnowledgeHub";
-import Navbar from "@/components/Navbar";
 import OurServices from "@/components/Ourservices";
 
 export default function Home() {
   return (
     <div>
-      <Navbar />
       <Hero />
       <OurServices />
       <KnowledgeHub />

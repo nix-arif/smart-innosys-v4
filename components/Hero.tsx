@@ -39,10 +39,10 @@ const HeroSection = () => {
             </a>
 
             <Link
-              href="/products"
-              className="text-[#045494] border border-[#045494] px-6 py-3 rounded-md text-sm font-medium hover:bg-[#045494]/10 transition"
+              href="/learn-more"
+              className="bg-[#FA9200] border border-[#045494] text-[#045494] px-6 py-3 rounded-md text-sm font-medium hover:bg-[#045494]/10 hover:font-semibold transition"
             >
-              Browse Products
+              Learn More
             </Link>
           </div>
         </div>
