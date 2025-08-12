@@ -5,7 +5,6 @@ import Hero from "@/components/Hero";
 import KnowledgeHub from "@/components/KnowledgeHub";
 import Navbar from "@/components/Navbar";
 import OurServices from "@/components/Ourservices";
-import Image from "next/image";
 
 export default function Home() {
   return (
